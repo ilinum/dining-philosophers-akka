@@ -12,7 +12,7 @@ Picture and problem statement taken from [Alison Norman](http://www.cs.utexas.ed
 
 #### Solution
 Multiple solutions to this problem exist.
-This is an implementation of an arbitrator solution, where the waiter controlls all the chopsticks and gives them out to when they ask philosophers.
+This is an implementation of an arbitrator solution, where the waiter controlls all the chopsticks and gives them out to philosophers when they ask.
 
 ##Akka
 Akka is a toolkit for concurrent, resilient and distributed applications that emphasizes [actor-based concurrency](https://en.wikipedia.org/wiki/Actor_model)
